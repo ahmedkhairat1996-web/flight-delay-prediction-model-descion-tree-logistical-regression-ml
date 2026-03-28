@@ -47,7 +47,7 @@ D-Enhances customer experience through proactive communication
 ---
 
  Tools & Technologies
-C-Python  
+a-Python  
 B-Google Colab  
 C-GITHUB
 
