@@ -16,7 +16,7 @@ This project aims to predict whether a flight will be delayed, enabling better p
 
 ---
 
-## 📊 Dataset
+ Dataset
 A-Source: Kaggle – Flight Delay and Cancellation Dataset (2019–2023)
 B-Link: https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
 C-The dataset includes airline operations data such as flights, airports, and delay indicators across multiple years
@@ -46,14 +46,14 @@ D-Enhances customer experience through proactive communication
 
 ---
 
-## ⚙️ Tools & Technologies
+ Tools & Technologies
 C-Python  
 B-Google Colab  
 C-GITHUB
 
 ---
 
-## 📂 Repository Contents
+ Repository Contents
 A-Ryanair_Delay_Prediction_Part2.ipynb` → Main notebook  
 B-Dataset files (sample included for reproducibility)
 C-flights_sample_3m.CSV
